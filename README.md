@@ -1,7 +1,7 @@
 # Arabic Company Reviews Sentiment Analysis
 
 ## Project Overview
-This project focuses on analyzing sentiment in Arabic reviews about companies and their apps. Students will develop a sentiment analysis model using classical machine learning approaches to classify Arabic text reviews into positive, negative, or neutral sentiments.
+This project focuses on analyzing sentiment in Arabic reviews about companies and their apps. I will develop a sentiment analysis model using classical machine learning approaches to classify Arabic text reviews into positive, negative, or neutral sentiments.
 
 ## Learning Objectives
 - Understanding Arabic text preprocessing challenges
@@ -25,7 +25,7 @@ This project focuses on analyzing sentiment in Arabic reviews about companies an
 - matplotlib & seaborn: Data visualization
 - wordcloud: Word cloud visualization
 
-## Suggested Workflow
+## Workflow
 1. Data Preprocessing 
    - Text cleaning (remove special characters, numbers) (Justify)
    - Stop words removal (Justify)
