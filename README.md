@@ -38,26 +38,12 @@ This project focuses on analyzing sentiment in Arabic reviews about companies an
 3. Evaluation & Analysis 
 
 
-## Recommended Evaluation Metrics
+## Evaluation Metrics
 - Accuracy
 - F1-Score
 - Precision and Recall
 - Confusion Matrix
 
-## Bonus Challenges
-- Implement k-fold cross-validation
-- Build a simple command-line interface for predictions
-- Analyze most frequent words/patterns in positive/negative reviews
-
-
-## Tips for Success
-- Focus on preprocessing quality - Arabic text requires special attention
-- Start with simple models before adding complexity
-- Document your preprocessing steps clearly
-- Keep track of model performance for different approaches
-
-## Notes
-- This task focuses on classical ML approaches only (no deep learning)
 
 
 
